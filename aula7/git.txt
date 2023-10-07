@@ -1,0 +1,5 @@
+aprendendo a usar git
+git -v (versao instalada do git)
+git init (iniciar git)
+git add . (analisar o dados modificados)
+git commit (commitar os arquivos modificados)
