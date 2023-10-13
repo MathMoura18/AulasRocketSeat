@@ -1,0 +1,29 @@
+Como usar animações no css:
+
+botão fazer a animação de deslizar para o lado:
+
+button{
+    animation: slide-back 0.2;
+}
+
+.light button{
+    animation: slide-in 0.4s forwards;
+}
+
+@keyframes slide-in{
+    from{
+        left:0;
+    }
+    to{
+        left: 50%;
+    }
+}
+
+@keyframes slide-back{
+    from{
+        left:50%;
+    }
+    to{
+        left: 0;
+    }
+}

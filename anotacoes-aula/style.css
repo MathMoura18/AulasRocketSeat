@@ -1,0 +1,10 @@
+@media (min-width: 700px){
+    /* é possível mudar a bg de acordo com a variavel determinada 
+    ou mudar o padrao de elementos de acordo com o grid */
+}
+
+/* também é possível usar com outras resoluções como: */
+
+@media (min-width: 350px){
+
+}
